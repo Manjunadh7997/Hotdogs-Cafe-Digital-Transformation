@@ -29,7 +29,7 @@ The "Hotdogs Cafe Digital Transformation" project is focused on deploying the ca
 
 ### **Architecture Overview**
 
-"C:\Users\manju\Downloads\Windows Instance.png")  <!-- Replace with an actual architecture diagram link -->
+# ![image](https://github.com/user-attachments/assets/cf8bdc4e-74de-4858-9dc1-088237e19f2c)
 
 The project architecture consists of the following components:
 
