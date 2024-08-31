@@ -1,4 +1,5 @@
-# 🌭 Hotdogs Cafe Digital Transformation
+# 🌭![image](https://github.com/user-attachments/assets/cf8bdc4e-74de-4858-9dc1-088237e19f2c)
+ Hotdogs Cafe Digital Transformation
 
 ## **Project Title: Windows EC2 & VPC: The Hotdogs Cafe Digital Transformation**
 
