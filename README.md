@@ -30,7 +30,7 @@ The "Hotdogs Cafe Digital Transformation" project is focused on deploying the ca
 
 ## ![AWS-windows-architecture](https://github.com/user-attachments/assets/3e7d56ea-2e01-4203-b3ec-1fa2ee66d7bb)
 
-237e19f2c)
+
 
 The project architecture consists of the following components:
 
