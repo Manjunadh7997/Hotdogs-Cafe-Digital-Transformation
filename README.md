@@ -1,5 +1,4 @@
-# 🌭![image](https://github.com/user-attachments/assets/cf8bdc4e-74de-4858-9dc1-088237e19f2c)
- Hotdogs Cafe Digital Transformation
+# 🌭 Hotdogs Cafe Digital Transformation
 
 ## **Project Title: Windows EC2 & VPC: The Hotdogs Cafe Digital Transformation**
 
@@ -29,7 +28,7 @@ The "Hotdogs Cafe Digital Transformation" project is focused on deploying the ca
 
 ### **Architecture Overview**
 
-# ![image](https://github.com/user-attachments/assets/cf8bdc4e-74de-4858-9dc1-088237e19f2c)
+## ![image](https://github.com/user-attachments/assets/cf8bdc4e-74de-4858-9dc1-088237e19f2c)
 
 The project architecture consists of the following components:
 
